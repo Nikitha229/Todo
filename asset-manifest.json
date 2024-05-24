@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nikitha229/Todo/static/css/main.831801c9.css",
+    "main.js": "/Nikitha229/Todo/static/js/main.c2311c09.js",
+    "static/js/453.37753ddd.chunk.js": "/Nikitha229/Todo/static/js/453.37753ddd.chunk.js",
+    "index.html": "/Nikitha229/Todo/index.html",
+    "main.831801c9.css.map": "/Nikitha229/Todo/static/css/main.831801c9.css.map",
+    "main.c2311c09.js.map": "/Nikitha229/Todo/static/js/main.c2311c09.js.map",
+    "453.37753ddd.chunk.js.map": "/Nikitha229/Todo/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.831801c9.css",
+    "static/js/main.c2311c09.js"
+  ]
+}
